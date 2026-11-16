@@ -1,0 +1,18 @@
+# ---- 超大文件（GitHub 单文件上限 100MB，无法上传）----
+第三次实验/all-2.0.tar.gz
+第三次实验/VMware-workstation-full-17.6.2-24409262.exe
+第三次实验/Nessus-10.12.4-x64.msi
+
+# ---- 授权凭据（含激活码/插件 feed，不得公开）----
+第三次实验/nessus.license
+第三次实验/plugin_feed_info.inc
+
+# ---- 疑似软件序列号 ----
+第二次实验/序列号.docx
+
+# ---- 常规忽略 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
